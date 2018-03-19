@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">    
+    <head>
+        <meta charset="UTF-8">
+        <title>Suggestion System</title>
+        <link href="CSS\style.css" rel="stylesheet" type="text/css">
+        <link href="plugins\bootstrap\css\bootstrap.css" rel="stylesheet" type="text/css">    
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+
+    <body>
+        <nav>
+            <div class="nav-wrapper">
+                <a class="brand-logo center">Suggestion System</a>
+            </div>
+        </nav>
+        <br><br>
+        <div class="container">
+            <ul class="collapsible" data-collapsible="accordion">
+                <li>
+                    <div class="collapsible-header">
+                        <i class="material-icons">help</i>
+                        ReadMe
+                    </div>
+                    <div class="collapsible-body"><p>Insert a user in the format "UtenteN", to view the games suggested.</p></div>
+                </li>
+            </ul>
+            <br><br>
+            <div class="row">
+                <div class="input-field col s8">
+                    <label for="search-input">Search for </label>
+                    <input type="text" name="utente" class="form-control" id="search-input">
+                </div>
+                <div class="col s2">
+                    <button class="btn waves-effect waves-light" style="margin-top: 15px" type="submit"  id="myBtn">Submit <i class="material-icons right">send</i></button>
+                </div>
+            </div> 
+            <div class="row">
+                <p id="demo"></p>
+            </div>
+            <div class="row">
+                <div id="lista"></div>
+            </div>
+            <br><br>
+            <button class="btn btn-info" id="myBtn2">ShowAll</button>
+            <br><br>
+        </div>
+        <script src="plugins/jquery/jquery-3.2.1.js"></script>
+        <script src="Javascript/main.js" rel="stylesheet" type="text/javascript"></script>       
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="js/materialize.min.js"></script>
+    </body>
+</html>
