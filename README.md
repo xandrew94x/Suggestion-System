@@ -23,6 +23,6 @@ To view the code open the folder 'CodiceProgetto' and start the main 'Progetto.i
 
 ## Authors
 
-* **Daniele Fallica** - *Giochi Realmente Utilizzati* - [Linkedin](https://www.linkedin.com/in/daniele-fallica-40b0ab157)
-* **Adriana Maccarrone** - *Regione Giocatori* - [Linkedin](https://www.linkedin.com/in/adriana-maccarrone-11129b153)
-* **Andrea Sciuto** - *Ultimi Giochi Giocati* - [Linkedin](https://www.linkedin.com/in/andrea-sciuto-0594b6136)
+* **Daniele Fallica** - [Linkedin](https://www.linkedin.com/in/daniele-fallica-40b0ab157)
+* **Adriana Maccarrone** - [Linkedin](https://www.linkedin.com/in/adriana-maccarrone-11129b153)
+* **Andrea Sciuto** - [Linkedin](https://www.linkedin.com/in/andrea-sciuto-0594b6136)
